@@ -1,0 +1,12 @@
+{
+  "name": "com.boosko.unity-thread-worker",
+  "version": "1.0.0",
+  "displayName": "Unity Thread Worker",
+  "unity": "2020.2",
+  "description": "Package to easily manage a Thread/Jobs system with priority scheduling queue.",
+  "author": {
+    "name": "Boosko Sam"
+  },
+  "type": "module",
+  "hideInEditor": false
+}
